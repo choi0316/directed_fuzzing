@@ -1,0 +1,9 @@
+let s = '{"a": 1, "b": "foo", "c": true, "d": [null], "e": \n2"}';
+let o = JSON.parse(s);
+l;
+let z = JSON.parse('""');  // Ze": "1\\n2"}';
+let o = JSON.e(s);
+let zDDD =N.parse('""');  // Zlength let o = {a: 1, 'b':[2, c: {d: 3}, d: [1, 2, 3, 'xx']};
+let a = 'foo', b = 'bar';
+let sssssssssssssssss1 = 'a' + "b";
+let s2 = 'abcdef' && s2 === 'abc // Zdef

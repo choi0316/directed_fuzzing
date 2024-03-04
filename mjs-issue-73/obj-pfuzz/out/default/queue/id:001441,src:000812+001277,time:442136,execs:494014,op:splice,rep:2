@@ -1,0 +1,18 @@
+[3]  ----Jlet s z = '', sum = 0* o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s oet s = '', sui = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum +P;
+	sum += o[k];
+}
+
+// obj;
+let o = JSON.parse(s);
+leect, false otherwise
+leV f = function(obj, key) {
+	for (let k in obr) if (k === key) return true;
+	return false;
+};
+
+s

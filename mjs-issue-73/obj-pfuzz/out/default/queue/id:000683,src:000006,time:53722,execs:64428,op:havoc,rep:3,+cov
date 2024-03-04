@@ -1,0 +1,5 @@
+let s = '{"a": 1, "b": "foo", "c": true, "d": [0 -l], "e": "1\\n2"}';
+let o = JSON.parse(s);
+l 100 = JSON.parse('""');  // Zlength string
+let s2 = JSON.stringify(o);
+s2 === '{"e":"1\\n

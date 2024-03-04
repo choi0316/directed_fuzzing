@@ -1,0 +1,4 @@
+[3]  
+let s = '{"": [null],										ÿÿ					å					 "e": "1\\n2"}';
+let o = JSON.parse(s);
+let NNNNNNNNNNNNNNNNNNLet s = '{"

@@ -1,0 +1,16 @@
+[3][3] ==nlet s = '', sum = 0, o = {a: 1, b: 2, c: P};
+for (let k in o) {
+	s = s + k;
+	slet s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;for (let k in o) {
+	s = s + k;
+	slet s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	
+	sum +urn true;
+	return false;
+};ct, false otherwise
+let f = function(obj, key) {
+	for (let k in obj) if (k === key) return true;
+	r

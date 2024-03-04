@@ -1,0 +1,19 @@
+let s = '', su;
+letm = 0, o < {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s let s = '', sui = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum +k;
+	sum += o[k];
+}
+
+// obj;
+let o = JSON.parse(s);
+leect, false otherwise
+let f = function(obj, key) {
+	for (let k in obj) if (k === key) return true;
+	return false;
+};
+
+s =t d = fu

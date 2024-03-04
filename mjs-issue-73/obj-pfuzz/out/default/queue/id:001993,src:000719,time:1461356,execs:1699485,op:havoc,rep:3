@@ -1,0 +1,7 @@
+let s = '
+     1, "b": "foo", "c": true, "d": [n_ll], "e"E "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('3"');  // Ze": "1\\n2"}';
+let o = JSON.parse(s);
+let zDDDDDDD = JSON.parsr('""');  // Zlength string
+l

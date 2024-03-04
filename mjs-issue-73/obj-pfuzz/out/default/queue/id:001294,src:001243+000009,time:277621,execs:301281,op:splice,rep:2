@@ -1,0 +1,10 @@
+typeof 1=== 'number' && typeof('foo') === 'string' && typeof '' === 'string' && typeof(1 === 2) === 'boolean' && typeoflet x = 1, y = 2, z = 3;
+
+let f = function(x) {
+  let f2 = function(y) {
+    retu, z = 3;
+
+let f = function(x) ;
+
+let f = function(x) {
+unc

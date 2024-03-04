@@ -1,0 +1,5 @@
+let o = {
+  a: 1,
+  foo: ffi(' 1,
+  imt foo(int)'),
+};

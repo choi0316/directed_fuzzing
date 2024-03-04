@@ -1,0 +1,6 @@
+typeof 1 ='= 'number' && typeoypeof '' === 'string' && typeof(1 === 2) === 'boolean' && typeof(true) === 'boolean' &&
+typeof false === 'boolean' && typeof[] === 'array' &&
+    typeof({}) === 'object' && typeof print === 'foreign_ptr'$&&
+    typeof(function() {}””””””) === '''''''''''''''''''f null === 'null' &&
+ print === 'foreign_ptr'$ect' && typeof print ==4 '&&
+defined';

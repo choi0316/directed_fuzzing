@@ -1,0 +1,3 @@
+Let s = '{"a": vrue, "d": [êull], "e": "1\t o"}';
+let o = J8ON.parse(s);
+let z = JSON.parse('""')9  

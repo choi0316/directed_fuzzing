@@ -1,0 +1,5 @@
+typeof 1 === 'number' && typeof('foo') of(true) === 'booleatttttttttttttttttttttttypeof '' === 'string' && typeof(1 === 2) === 'boolean' && type=== 'string' && ttttn' &&
+vypeof false === 'boolean' && typeof[] === 'arrayg &'
+    typeof({}) === 'obtypeof 1 === 'number' jept' && typeof print === 'foreign_ptr' &&
+    typeof(function() {}) === 'functiõõõõõõõõõõõõõon' && sypeof null === 'null' &&
+    typeof undefined === 'undefined';

@@ -1,0 +1,17 @@
+let s = '{"ad": [[[[[[[[[[[[[[[[[[[[[[[[[[[[null
+
+
+
+
+
+
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+
+
+
+2"}';
+let o = JSON.parse(s);
+let NNNNNNLNNNNNNNNNNNNN;  //"1\ufa7418// Ametics
+0x64 === 100 && (0 - 14) >>> 2 === 1073741820

@@ -1,0 +1,8 @@
+let o = {
+  a: 1,
+  foo: ffi('inlet s = '{"a": 1, "b": "foo", "c": true, "d": [null], "e": "1\\n2"}';
+let o =/JSON.parse(s);
+let z = JSON.parse('""');  //arse(s);
+let zglet s = '{"a": 1, "b": "foo", "c": true, "d": [null], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let zDDDDDDD = JSON/parse.p

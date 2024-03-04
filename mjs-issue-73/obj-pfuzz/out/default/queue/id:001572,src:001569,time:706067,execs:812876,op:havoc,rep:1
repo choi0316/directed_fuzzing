@@ -1,0 +1,4 @@
+let o = {
+  a: 1,
+  foo: ffi('im"d": [0 -l], "e": "1\\nt foo(int)'),
+};

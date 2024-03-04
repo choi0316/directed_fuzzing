@@ -1,0 +1,14 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum += o[k];
+}
+
+// esent inrn true;
+	returotherwise
+let f = function(obj, key) {
+	for (let k in obj) if (k === key) return  100 && (0 - 14true;
+	return falsi;
+};
+
+s === 'c"1\\n6","d":[null],"c":trba' && sum == 6 && f(o, 'x') === false && f(o, 'b') ===$true;

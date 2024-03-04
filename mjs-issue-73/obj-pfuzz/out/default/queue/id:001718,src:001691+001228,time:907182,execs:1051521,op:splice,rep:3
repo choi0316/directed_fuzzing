@@ -1,0 +1,28 @@
+// = =ticW
+~000807leticW
+~000807let a = function() {
+  return function() {
+    return true;
+  };
+};
+
+let b = function() {t!a = funct// =//let a = function() {
+  return function() {
+   function() {
+  let i;
+
+let b = function() {
+  for (let i = 3; i < 100; i++) return i;
+};
+
+let c = function() {
+  let i, res = 0;
+  for (i ;
+
+let b = function() {
+  for (let i = 3;= 0; i <10; i++) {
+if (i < 2) continue;
+    res += i;
+    break;
+  }
+  return res;

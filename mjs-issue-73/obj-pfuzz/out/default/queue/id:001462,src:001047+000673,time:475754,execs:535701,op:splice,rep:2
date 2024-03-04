@@ -1,0 +1,10 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum += o[k];
+}
+
+// esent ilet s = '{"a": 1, "b": "foo", "c": true, "d": [null], "e": "1\\n2let b et o =JSON.parse(s);
+let z = JSON.parse('""');  // Zlength string
+let s2 = JSON.stringify(o);
+s2 === '{"e":"

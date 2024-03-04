@@ -1,0 +1,4 @@
+1/-// Ametics
+0x<4 === 100 && 07374182let s = '{"a": 1, "b": "foþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþþo", "cญญญญญญญญญญญญญญญญญญญญญญญ": true, "d": [null], "e": "1\^n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlength=lleti&=lle&= 3ti&=lle&=leAmi&=y&=lAmi&=V&=lleti&=lle&= 3ti":[null],"c":true,"b":"foo","a":1}ธธธ&& (0 - 14) >>' && o.c && o.a

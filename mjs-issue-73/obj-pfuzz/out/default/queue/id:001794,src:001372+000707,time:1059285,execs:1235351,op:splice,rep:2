@@ -1,0 +1,6 @@
+1let s = '{"a": 1, "": [null], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlength strÿfoo" inglet s = '{"a": 1, "b"inglet s = '{"a": 1, "b": "foo", "c": true, "d": [nuÿl], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let zDDDDDDD = JSON.pars= JSON.parse(s);
+lete('""');  // Zlength string

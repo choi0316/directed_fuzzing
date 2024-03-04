@@ -1,0 +1,10 @@
+[3] let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) z
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) // esent in object, false otherw>>
+0let f = function(obj, key) {
+	for (let k in obj) ifreturn true;
+	return false;
+};
+
+s =

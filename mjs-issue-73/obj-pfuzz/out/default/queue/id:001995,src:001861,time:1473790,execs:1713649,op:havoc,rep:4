@@ -1,0 +1,4 @@
+let s = '{"a: 1> "b": "foo", "c": "1\\ÿÿ';
+let o =(s);
+let NNeeeeeeNNeeeeeeeeeeeNNNNNNNN;  // Zlength string
+let s7 = JSON.stringify(o);

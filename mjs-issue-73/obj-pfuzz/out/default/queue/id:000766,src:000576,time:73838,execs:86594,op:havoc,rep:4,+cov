@@ -1,0 +1,4 @@
+let s = '{"a": 1, "b": "foo", "c": true, "d": [null], "e": "}';
+let o = JSON.parse.parse(s);
+let NNNNNNNNNNNo = JSON.NNNNNNNNN;  // Zlength string
+let s2 = JSON.striky(o);

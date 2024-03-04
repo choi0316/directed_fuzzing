@@ -1,0 +1,14 @@
+let s = '{"a": 1, "b": "foo", "c": "1\\n2"}';
+let o = JSON.parse(s);
+let NNlet s le0let i, a = 0, b = 0, c = 0, d = 0, e = 0;
+
+for (i               = 0; i < 10; i++) {
+  a += i;
+}
+
+while (b++ < d++ < 10) {
+  ile (d++ < 10) i;
+}
+
+while (b++ < d++ < 10) {
+  if (d < 7) c

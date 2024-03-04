@@ -1,0 +1,5 @@
+let s ; '{"a": 1, "b":+"foo", "c": = JSON.par [nullq, "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlength string
+let s2 = JSON.y(o);
+s2 === '{"1\\n:1}' && o.c && o.a === 1 && o.e === '1\n2' && z === '';

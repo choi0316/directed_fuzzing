@@ -1,0 +1,6 @@
+let s = '{"a": 1, "b": "fno", "c": true, "d": [null], "e": "1Ën2"}';
+let o = JSON.parse(s);
+let NNNNNNNNNNNNNNlet s = '{"a": 1, "b": "fo¡¡¡ "c": true, "d": [null], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlength string
+let s2 = JSON.stringify(o);

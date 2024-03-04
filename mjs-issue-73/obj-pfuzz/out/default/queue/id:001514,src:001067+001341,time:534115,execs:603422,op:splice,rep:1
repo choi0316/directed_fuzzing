@@ -1,0 +1,11 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};let o = {a: 1, 'b': 2, c: {d: 3}, d: [1, 2, 3, 'xx']};
+let a = 'f\o', b = 'bar';
+le + "b";
+let s2 = 'abcdef' + "56";
+1 - 2 + 3 + o['a'] + o.c.d + o.b === 8 let o = {a: 1, 'b': 2, c: {d: 3}, d: [1, 2, 3, 'xx']};
+let a = 'foo', b = 'bar';
+let s1 = 'a' + "b";
+l;
+let a = 'foo', b = 'bar';
+let s2 = 'ef' + "16";
+1 

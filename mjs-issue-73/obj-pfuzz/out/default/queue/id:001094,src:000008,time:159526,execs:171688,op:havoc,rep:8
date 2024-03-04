@@ -1,0 +1,13 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sub += o[k];
+}
+
+// esent in object, in object, false ot f = function(obj, key) {
+	for (let k in obj) i=ti~U
+c~=--if (k ==t i = 3; i < 1S0; i++) 1= key) return true;
+	retur	return false;
+};
+
+s ==' && sum === 6 && f(o, 'x') === false && f(o, 'b') =&& sum =

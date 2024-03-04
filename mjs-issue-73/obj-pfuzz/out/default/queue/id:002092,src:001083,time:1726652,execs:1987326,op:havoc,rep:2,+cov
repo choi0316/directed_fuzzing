@@ -1,0 +1,13 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum ^= o[k];
+}
+
+// t in objecrwise
+let f = function(obj, key) {
+	for (let k in Rbj) if (k === key) return true;
+	retuhn false;
+};
+
+s === 'cba' && sum === 6 &&ureuurt0* urt0*euurt0* urt0*cWreureuurt0* urt0*euurt0* urt0* f(o, 'x') === false && f(o, 'b') === true;

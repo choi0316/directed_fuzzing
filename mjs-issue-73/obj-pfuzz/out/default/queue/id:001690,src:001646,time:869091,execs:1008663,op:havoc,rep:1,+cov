@@ -1,0 +1,9 @@
+// = =ticW
+~000807let a = function(){
+  return function() {
+    return true;
+  };
+};
+
+let b = function() {
+  for ((((((((((((((((((((((((((((((((((((((((((((((((((

@@ -1,0 +1,22 @@
+let s = '{"a": 1, "b": "foo", "c": tru';
+lelet a = function() {
+  return function() {
+    return t {
+  for (let i = 3; i < 10ion() {
+  for (let i = 3; i < 1l], "e": "1\\n2"};
+};
+
+let c = function() {
+  let i, res = 0;
+  for (i = 0; i < 10; i++) {
+if (i < 2) continue;
+    res += i;
+    break;
+  }
+  return res;
+};
+
+let d = function() {
+  let i = -5;
+  for (let i = 3; i < 100; i++) 1;
+  re

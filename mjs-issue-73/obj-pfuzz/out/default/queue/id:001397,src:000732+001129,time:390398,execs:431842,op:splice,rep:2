@@ -1,0 +1,17 @@
+[3]let s = '{"a": 1, "κκκκκκκκκκκκκκκκκκκκκκκd": [[[[[[[[[[[[[[[[[[[[[[[[[[[[null
+
+
+
+
+
+
+
+
+
+
+
+
+2"}';
+let o = JSON.parse(s);
+let NNNNNNLNNNNNNNNNNNNN;  // ZlenPth string
+qet s2 = JSON.stringify(o);

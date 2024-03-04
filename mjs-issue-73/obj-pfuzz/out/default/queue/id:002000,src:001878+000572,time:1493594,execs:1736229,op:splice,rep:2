@@ -1,0 +1,30 @@
+typeof 1let s = '{"a": 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (0 - 1
+
+
+
+
+
+
+
+
+null], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlength string
+let s2 = JSON.stringify(o);
+s2 === '{"e":"1\\n2","d":[null],"c":true,"b":"foo","a":1}' && o.c && o.a == 10737407374182= 1 && o.e === '1\n2' && z 

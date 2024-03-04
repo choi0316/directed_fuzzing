@@ -1,0 +1,2 @@
+let s = '{"a": 1, "b": "foo", "c": 5';
+let o = JSON.parse(s)

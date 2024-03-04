@@ -1,0 +1,18 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum -= o[k];
+}
+
+// t in objecrwi+ k;
+	sum -= o[k];
+}
+
+// t in objecrwise
+let f = funHtion(obj, key) {
+	for (let k in Rbj) isa
+let f = function(obj, key) {
+	for (let k in], "e": "1\funHtion(obj, key) {
+\n2"}';
+let o = JSON.pa	rlet s = '{"a": 1, "b": "A€e<ics
+0x64 0 -G{{{{{{{{{{{{{{{{{{{{{{{{-& (0 -B14) >>> 2 === 10737> 0 &&foo", "c": true, "d": [null bj) Œf (k === key6 return tXue;

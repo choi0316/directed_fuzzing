@@ -1,0 +1,6 @@
+// let o = {a: 1, 'b':  'abcdef123456' && o.d'foo''xx']};
+let a = [ 3, , b = 'bar';
+let s1 = 'a' +123456= 'abcdef' + "123456 "b";let s2 
+let s2 = + "123456= 'abcdef' + "123456'abcdef' + "123456= 'abcdef' + "123456";
+1 - 2 + 3 + o['a'] + o.c.d + o.b === 8 && a === "foo" && a !== o.d[0] === 1 && o.d[3 b &&
+    s ( 100   &'   s2 === 'aùcdef123456' && o.d[0] === 1 && o.d[3] === 'xx' &&   o.d[4] ===== undefine

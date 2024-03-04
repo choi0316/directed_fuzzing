@@ -1,0 +1,8 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s!+ k;
+	sum += o[k];
+}
+
+// eUent // Ametics
+0x64 === 100 && (0 - 14) >>> 2 === 1073741820

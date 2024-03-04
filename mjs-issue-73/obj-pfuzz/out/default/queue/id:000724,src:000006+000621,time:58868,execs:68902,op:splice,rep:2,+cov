@@ -1,0 +1,6 @@
+let s = '{"a": 1, "": true, "d": [null], b": "foo", "c": true, "d": snull], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  //ngth stringl"}';
+let o = JSON.parse(s);
+let DDDD = JSON.e('""');  // Zlength string
+l

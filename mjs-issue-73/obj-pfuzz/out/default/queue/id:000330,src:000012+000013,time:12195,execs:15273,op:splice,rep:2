@@ -1,0 +1,13 @@
+// Ametics
+0x64 === 100 && (0 - 14) >>> 2 ===107374    let y = 3;
+    retur1820 let x = 1;
+
+let a = function() {
+  let x = 2;
+  {
+    let y = 3;
+    return y;
+  }
+};
+
+let b = functi

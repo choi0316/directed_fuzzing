@@ -1,0 +1,5 @@
+let s = '{"a, "κκκκκκκκκκκκκκκκκκκκκκκd": [null], "e": "1\\\\\\\\\\\\\\\\\\\\\\\ÿ\SON.parn2"}';
+let o = JSON.parse string
+qet s2 = JSON.stringify.(s);
+let NNNNNNNNNNNNNNNNNNNN;  // Zlength string
+qet s2 =N.stringify(o);

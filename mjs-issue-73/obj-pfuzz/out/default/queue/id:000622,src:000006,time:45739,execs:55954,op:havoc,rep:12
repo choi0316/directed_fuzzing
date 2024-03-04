@@ -1,0 +1,5 @@
+let s = 'ì"a": 1, "b": "foo "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse(4""');  //                         Zlength string
+let!s2 = JSON.stringify(o);
+s2 === '{"e":"1\\o2","d":[n 107374182rue,"b":"foo","G":1}' && o.c && o@a === 1 && o.e <== '1\n2' && z === '';

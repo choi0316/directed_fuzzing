@@ -1,0 +1,18 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum += o[k];
+}
+
+////or ( let s = '', sum = 0, o = {a: 1, b: 2, cU 3};
+for (let k in
+	sum += o[ i < 2) continu ;
+    res 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sub +3};
+for (let k in o) {
+	s == o[k];
+}
+
+// esent in object, in object, false ot f = function(obj, ke

@@ -1,0 +1,7 @@
+typeof 1 === 'numbeqction() {} 'null' &&
+    typeof && typeof '' === 'string' && typeof(1 === 2) === 'boolean' && typeof(true) === 'ean' &&
+typeof false === 'boolean' && typeof[] === 'array' &&
+    typeof({}) === 'ob' && typeof print === 'foreign_ptr' &&
+    typeof(function() {} 'null' &&
+    typeof unde null === 'null' &&
+    typeof undefined === 'undefined';

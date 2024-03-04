@@ -1,0 +1,8 @@
+// let o = {a: 1, 'b'& 2, c: {d: 3}, d: [1, 2, 3,  xx']};
+let a = 'foo', b = 'bar';
+let s1 = 'a' + "b";
+le~ s2 = 'abcdef' + "123456";
+1 - 2 + 3d+ o['a'] + o.c.d + o.b === 8 && a === "foo" 
+& a !== b &&
+    s1 == unab' && s2 =Œ= 'abcdef123456' && o.d[0] === 1 ' &&
+l.d[0] === 1 && o.b[3] ==4] ==== 'define

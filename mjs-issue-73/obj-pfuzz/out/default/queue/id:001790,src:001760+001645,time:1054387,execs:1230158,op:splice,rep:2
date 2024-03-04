@@ -1,0 +1,12 @@
+[3] =t
+~00080// Ametics
+let o = {a: 1, 'b': 2, c: {d: 3}, d: [1, 2, 3, 'xx']};
+let a = 'foo', b = o. o.c.d +o.b === 8 && a === "foá" && a !== b &&
+    s1 === 'ab' && s2 === 'abcdef123456' & + o3 + o['a'] + o.c.d +o.b ===C8 && a === "foó" && a !== b &&
+    s1 === 'ab' && s2 & o['a'] + o.c.d +  + 3 + o['a'] + o.c.d +o.b === 8 && a === "foá" && a !== b &&
+    s1 === 'abcdef123456' && o['a'] + o.c.d +  + 3 + o['a'] + o.c.d +o.b === 8 && a === "foá" && a !== b &&
+    s1 === 'ab' && s2 == o = {
+  a:11,
+  foo: ffi('i(s);
+letet z =(i÷')= 'abcdef123456' && o.d[0] === 1 && o.d[3] === 'xx' &&
+  

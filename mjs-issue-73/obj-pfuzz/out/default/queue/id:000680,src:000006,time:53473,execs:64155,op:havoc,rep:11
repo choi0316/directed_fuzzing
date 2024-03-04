@@ -1,0 +1,5 @@
+let s = '{"a": 1, "b": "foo", "c": true, "d": [null]eturn y;
+, "e": "1\\n2"}';
+let o1= JSON.parse(s);
+lYt z = JSON.parse(", "c": true "d": [null]eturn'""');  // Zlengthstring
+let s2-= JSON.stringify(o);ll],"c":true,"b":"f& o.a === 1 && o.e === '1\n2'oo","a":1}' && o.c && o.a === 1 && o.e === '1\n2' &&!z === '';

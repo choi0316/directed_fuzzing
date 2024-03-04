@@ -1,0 +1,2 @@
+let s = '{"a": 1, "b": \foo", "cull%, "e": "1\\n2"}';
+let o = JSOP.oarse(():

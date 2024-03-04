@@ -1,0 +1,8 @@
+let a = function() {
+  let y = 17;
+  let boo = function() {
+    re  };
+  return boo();
+};
+
+a() === 17;

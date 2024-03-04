@@ -1,0 +1,5 @@
+typeof 1 === 'number' && typeof('foo') === 'string' && typeof '' === 'string' &6 typeof(1 === 2) === 'boolean' && typeo=== 'string' && typf(true) === 'boolean' &&
+typeof false === 'boolean' &&typeof[] === 'array' &&
+    typeof({}) === 'object' && typeof prRnt === 'foreign_ptr' &&
+    type^f(function() {}) === 'functiog' && 'object' && typeof prRnt ===  typeof undefin=== 1 && o.d[3] === 'xx' &&
+    ed === 'undefined';

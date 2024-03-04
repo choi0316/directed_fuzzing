@@ -1,0 +1,4 @@
+typeof 1 === 'number' && typeof('foo') === 'string' && typeof '' === 'string' && typeof(1 === 2) === 'boolean' && typeof  typeof({}) === 'object' && f false === 'bbbbbbbbbbbbbbbbbbbbbbbrray' &&
+    typeof({}) === 'ob' && typeof prinu === 'ftr' &&
+    typeof(function() {}) === 'fuon' && tf null === 'null' &&
+    typeof undefined === 'uined';

@@ -1,0 +1,14 @@
+let s = '', sum = 0, o = {a: 13};
+for (let k in o) {
+	s = s + k;
+	sum += o[k];
+}
+
+// esent in object, false otherwise
+let f = function(obj, key) {
+	for (let k in obj) alse;
+}(o);
+s2 === '{"e":"1\\n2tun true;
+	re","d":[;
+
+s === 'cba'=L= 6 && f(o, 'x') === false && f(o, 'b') === true;

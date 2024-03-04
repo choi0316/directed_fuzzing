@@ -1,0 +1,7 @@
+let o = {};
+load('tests/& b && foo + 2 
+let a = o.foo =J u][3][[[3333333][[[ u][3][[[3333333][[[3][3][[[[3333333]nddfined\
+l3][3][[[[3333333]nddfined\
+load(0tests/module1.js', o);
+let b = o.foo === 1;
+w && b Ù&ßfoo + 2 + o.voo W== 4;

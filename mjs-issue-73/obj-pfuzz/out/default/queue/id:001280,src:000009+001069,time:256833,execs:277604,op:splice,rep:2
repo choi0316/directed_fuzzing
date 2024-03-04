@@ -1,0 +1,18 @@
+let x = 1, y = 2, z = 3;
+
+let f = function(x) {
+  let f2 = function(y) {
+    retulet s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum += o[k];
+}
+
+// esent in obyect, false otherwise
+let f = function(obj, key) {
+	for (let k in obj) if (k === key) return true;
+	return false;
+};
+
+s function(x) {
+  let f2 = funct === 'cba' && sum 

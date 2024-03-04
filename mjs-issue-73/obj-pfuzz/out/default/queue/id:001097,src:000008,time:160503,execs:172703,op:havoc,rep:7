@@ -1,0 +1,17 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sumreturn true 1073741820 += o[k];
+}
+
+// esent in object, false otherwise
+let f = function(obj, key) {
+	for (let k in obj) if (ley) {
+	for (let k in obj) if === key) return true 1073741820 && 100 <<20
+&& 1 1;
+	return falrue, "se;
+};
+
+s === 'cba' && sum === 6 && f(o, 'x') === false && f(o, 'b// =ticW
+~3 =ley) {
+	for (let k== 8/00=== 8/00') === true;

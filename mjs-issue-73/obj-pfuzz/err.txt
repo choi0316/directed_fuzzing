@@ -1,0 +1,12 @@
+thread 'main' panicked at /home/choi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libafl-0.11.1/src/events/llmp.rs:1301:21:
+Fuzzer-respawner: Storing state in crashed fuzzer instance did not work, no point to spawn the next client! This can happen if the child calls `exit()`, in that case make sure it uses `abort()`, if it got killed unrecoverable (OOM), or if there is a bug in the fuzzer itself. (Child exited with: 25856)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+thread 'main' panicked at /home/choi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libafl-0.11.1/src/events/llmp.rs:1301:21:
+Fuzzer-respawner: Storing state in crashed fuzzer instance did not work, no point to spawn the next client! This can happen if the child calls `exit()`, in that case make sure it uses `abort()`, if it got killed unrecoverable (OOM), or if there is a bug in the fuzzer itself. (Child exited with: 25856)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+thread 'main' panicked at /home/choi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libafl-0.11.1/src/events/llmp.rs:1301:21:
+Fuzzer-respawner: Storing state in crashed fuzzer instance did not work, no point to spawn the next client! This can happen if the child calls `exit()`, in that case make sure it uses `abort()`, if it got killed unrecoverable (OOM), or if there is a bug in the fuzzer itself. (Child exited with: 25856)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+thread 'main' panicked at /home/choi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libafl-0.11.1/src/events/llmp.rs:1301:21:
+Fuzzer-respawner: Storing state in crashed fuzzer instance did not work, no point to spawn the next client! This can happen if the child calls `exit()`, in that case make sure it uses `abort()`, if it got killed unrecoverable (OOM), or if there is a bug in the fuzzer itself. (Child exited with: 25856)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

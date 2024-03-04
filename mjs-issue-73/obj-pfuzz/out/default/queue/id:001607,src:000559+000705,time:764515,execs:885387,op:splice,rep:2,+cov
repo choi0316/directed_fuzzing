@@ -1,0 +1,4 @@
+let s = '{"d": [null], "e": "1\\"a": 1, "b": "foo", "c: true, "d": [null], "e": "1\\n2"}';
+let o = JSON.parselet s = '[null],, "b": "foo", "c": true, "d":	[null], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlength{"a": 1, "b": "foo", "c"

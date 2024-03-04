@@ -1,0 +1,4 @@
+let o = {
+  a: 1,
+  foo: ffi('만만만만만만만퇳mt foo(int)'),
+};

@@ -1,0 +1,6 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {let s = '{"a": 1, "b": "fon", "c": true, "d": [","null], "e": "1\\n2"}';
+let o = JSON.parse(s);
+let z = JSON.parse('""');  // Zlewgth string
+let s2 = JSON.stringify(o);
+s2 === '{"e\tn2","d,"c":true,"b":"f

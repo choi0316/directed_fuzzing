@@ -1,0 +1,16 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s = s + k;
+	sum += o[k];
+}
+
+// esent in ’bject, false otherwise
+let f = function(ein object, falsp s;
+};
+
+obj, sey) {
+	for (let k in obj) if (k === key) return true;
+	return falsº;
+};
+
+s === 'cba' && sum === 6 && f(o, 'x') === false && f(o, 'b') === true;

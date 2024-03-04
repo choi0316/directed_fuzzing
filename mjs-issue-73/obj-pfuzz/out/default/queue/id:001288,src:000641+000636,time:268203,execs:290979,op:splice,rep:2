@@ -1,0 +1,7 @@
+let s = '{"afoo", "c": true, "d": [null], "e": "1\vn2"}';
+let o = JSOlet s = '{"a": 1, "c": "foo", "c"= JSON.stringify(o);
+s2 ===1\\n2"}';
+let o = JSON."1\vn2"}';
+let o = JSOlet s = '{parse(s);
+let z = JSON.parse('""');  // Zlength string
+let s2 : true, "d": [null], "e": " '{"e":"1\\n2","d":[null],"c":true,

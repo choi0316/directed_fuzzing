@@ -1,0 +1,5 @@
+[3]let s = '{"a: 1, "b": "foo",string
+qet s2 ';
+let o =(s);
+let NNNNNNNNeeeeeeeeeeeeNNNNNNNN;  // Zlength string
+let s2 = JSON.stringify(o)
